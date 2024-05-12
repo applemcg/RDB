@@ -14,7 +14,7 @@ the future of a shared resource.
 + a flat-file character based (non-digital) data base,
 + implemented in the [bash shell](https://www.gnu.org/software/bash/manual/bash.html)
 + using [awk](https://en.wikipedia.org/wiki/AWK) as the relational engine
-+ with developers collaborating on o [github REPO, applemcg/RDB]
++ with developers collaborating on a [github REPO, applemcg/RDB]
 + open to modern language [python](https://www.python.org/)
 , [go](https://go.dev), ... implementation
 
